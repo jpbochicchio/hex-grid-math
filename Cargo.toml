@@ -1,0 +1,7 @@
+[package]
+name = "hex-grid-math"
+version = "0.0.0"
+authors = ["John Bochicchio <jpbochicchio@gmail.com>"]
+
+[dependencies]
+num-traits = "0.2"
